@@ -5,10 +5,10 @@ Language of implementation is C++.
 
 ## 1.  Linked Lists
 ##### Single Linked Lists
-1. [Creating and Displaying a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/1.%20Creating%20and%20Displaying%20a%20Single%20Linked%20List.cpp)
-2. [Insertion at Beginning, Ending and Specified Position in a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/2.%20Insertion%20at%20Beginning%2C%20Ending%20and%20Specified%20Position%20in%20a%20Single%20Linked%20List.cpp)
-3. [Deletion from Beginning, Ending and Specified Position in a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/3.%20Deletion%20from%20Beginning%2C%20Ending%20and%20Specified%20Position%20in%20a%20Single%20Linked%20List..cpp)
-4. [Number of Nodes and Reversing a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/4.%20Number%20of%20Nodes%20and%20Reversing%20a%20Single%20Linked%20List.cpp)
+1. [Creating and Displaying a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/Single%20Linked%20Lists/1.%20Creating%20and%20Displaying%20a%20Single%20Linked%20List.cpp)
+2. [Insertion at Beginning, Ending and Specified Position in a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/Single%20Linked%20Lists/2.%20Insertion%20at%20Beginning%2C%20Ending%20and%20Specified%20Position%20in%20a%20Single%20Linked%20List.cpp)
+3. [Deletion from Beginning, Ending and Specified Position in a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/Single%20Linked%20Lists/3.%20Deletion%20from%20Beginning%2C%20Ending%20and%20Specified%20Position%20in%20a%20Single%20Linked%20List..cpp)
+4. [Number of Nodes and Reversing a Single Linked List.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/1.%20Linked%20Lists/Single%20Linked%20Lists/4.%20Number%20of%20Nodes%20and%20Reversing%20a%20Single%20Linked%20List.cpp)
 
 ##### Circular Linked Lists
 1. Creating and Displaying a Circular Linked List.
