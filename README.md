@@ -30,11 +30,8 @@ Language of implementation is C++.
 
 ## 2. Stack
 
-1. Stack Implementation using Arrays.
-2. Stack Implementation using Linked List.
-3. Stack Application : Infix to Postfix Conversion.
-4. Stack Application : Evaluation of Postfix Expression.
-5. Stack Application : Balancing Symbols.
+1. [Stack Implementation using Arrays.]()
+2. [Stack Implementation using Linked List.]()
 
 ## 3. Queue
 
