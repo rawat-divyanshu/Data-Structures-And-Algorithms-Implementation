@@ -14,9 +14,12 @@ Language of implementation is C++.
 
 ##### Circular Linked Lists
 
-1. Creating and Displaying a Circular Linked List.
-2. Insertion at Beginning, Ending and Specified Position in a Circular Linked List.
-3. Deletion from Beginning, Ending and Specified Position in a Circular Linked List.
+1. [Creating and Displaying a Single Circular Linked List.]()
+2. [Creating and Displaying a Double Circular Linked List.]()
+3. [Insertion at Beginning, Ending and Specified Position in a Single Circular Linked List.]()
+4. [Insertion at Beginning, Ending and Specified Position in a Double Circular Linked List.]()
+5. [Deletion from Beginning, Ending and Specified Position in a Single Circular Linked List.]()
+6. [Deletion from Beginning, Ending and Specified Position in a Double Circular Linked List.]()
 
 ##### Double Linked Lists
 
