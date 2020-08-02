@@ -57,7 +57,7 @@ void addNodeAtAPosition() {
     int data;
     cout << endl << "Enter DATA : ";
     cin >> data;
-    if(pos <= 1 || pos >= countNodes()) {
+    if(pos <= 1 || pos > countNodes()) {
         cout << endl << "Invalid Position to add Node" << endl;
     }
     Node *temp = HEAD;
