@@ -35,8 +35,8 @@ Language of implementation is C++.
 
 ## 3. Queue
 
-1. Queue Implentation using Arrays.
-2. Queue Implementation using Linked List.
+1. [Queue Implentation using Arrays.]()
+2. [Queue Implementation using Linked List.]()
 
 ## 4. Sorting Algorithms
 
