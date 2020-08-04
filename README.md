@@ -1,6 +1,6 @@
 # Data Structures & Algorithms Implementation
 
-This repository is dedicated to Data Structutres and Algortihms Implementation which I've learnt till the date.<br />
+This repository is dedicated to Data Structures and Algorithms Implementation which I've learnt till the date.<br />
 Language of implementation is C++.
 
 ## 1. Linked Lists
