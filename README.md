@@ -40,9 +40,9 @@ Language of implementation is C++.
 
 ## 4. Sorting Algorithms
 
-1. Bubble Sort
-2. Insertion Sort
-3. Selection Sort
+1. [Bubble Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/1.%20Bubble%20Sort.cpp)
+2. [Insertion Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/2.%20Insertion%20Sort.cpp)
+3. [Selection Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/3.%20Selection%20Sort.cpp)
 4. Merge Sort
 5. Heap Sort
 6. Quick Sort
