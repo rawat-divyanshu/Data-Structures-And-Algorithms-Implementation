@@ -45,7 +45,7 @@ Language of implementation is C++.
 3. [Selection Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/3.%20Selection%20Sort.cpp)
 4. [Merge Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/4.%20Merge%20Sort.cpp)
 5. Heap Sort
-6. Quick Sort
+6. [Quick Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/6.%20Quick%20Sort.cpp)
 7. Radix Sort
 8. Shell Sort
 
