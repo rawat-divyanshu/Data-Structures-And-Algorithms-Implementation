@@ -52,4 +52,4 @@ Language of implementation is C++.
 ## 5. Searching Algorithms
 
 1. [Linear Search](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/5.%20Searching%20Algorithms/1.%20Linear%20Search.cpp)
-2. Binary Search
+2. [Binary Search](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/5.%20Searching%20Algorithms/2.%20Binary%20Search.cpp)
