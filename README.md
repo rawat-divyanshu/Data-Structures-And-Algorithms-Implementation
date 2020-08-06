@@ -1,7 +1,8 @@
 # Data Structures & Algorithms Implementation
 
 This repository is dedicated to Data Structures and Algorithms Implementation which I've learnt till the date.<br />
-Language of implementation is C++.
+Language of implementation is C++.<br />
+I've also added some reference materials that I've used through my learning at the end of this readme file.
 
 ## 1. Linked Lists
 
@@ -69,5 +70,13 @@ Language of implementation is C++.
 3. Preorder Tree Traversal
 4. Postorder Tree Traversal
 
+<hr />
 
+# Reference Materials
 
+1. [Recursion Playlist By Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+2. [Dynamic Programming Playlist By Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+3. [Dynamic Programming On Trees Playlist By Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
+4. [Heap Playlist By Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9)
+5. [Geeks For Geeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
+6. [Geeks For Geeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
