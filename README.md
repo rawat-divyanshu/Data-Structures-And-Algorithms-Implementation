@@ -71,6 +71,16 @@ I've also added some reference materials that I've used through my learning at t
 3. Preorder Tree Traversal
 4. Postorder Tree Traversal
 
+## Recursion Problems
+
+1. Sort an Array using Recursion.
+2. Sort a Stack.
+3. Reverse a Stack using Recursion.
+4. Tower of Hanoi Problem
+5. Subsets Generation
+6. Balanced Parentheses Problem
+7. Josephus Problem
+
 <hr />
 
 # Reference Materials
