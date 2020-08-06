@@ -55,6 +55,7 @@ I've also added some reference materials that I've used through my learning at t
 1. [Linear Search](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/5.%20Searching%20Algorithms/1.%20Linear%20Search.cpp)
 2. [Binary Search](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/5.%20Searching%20Algorithms/2.%20Binary%20Search.cpp)
 3. Jump Search
+4. Linear Search using Recursion
 
 ## 6. Binary Search Trees
 
