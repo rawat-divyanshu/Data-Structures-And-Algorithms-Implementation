@@ -53,3 +53,21 @@ Language of implementation is C++.
 
 1. [Linear Search](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/5.%20Searching%20Algorithms/1.%20Linear%20Search.cpp)
 2. [Binary Search](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/5.%20Searching%20Algorithms/2.%20Binary%20Search.cpp)
+3. Jump Search
+
+## 6. Binary Search Trees
+
+1. Constructing a Binary Search Tree (Example).
+2. Insertion in a Binary Search Tree.
+3. Deletion from Binary Search Tree.
+4. Searching a key in Binary Search Tree.
+
+## 7. Tree Traversals
+
+1. Inorder Tree Traversal
+2. Inorder Tree Traversal without Recursion
+3. Preorder Tree Traversal
+4. Postorder Tree Traversal
+
+
+
