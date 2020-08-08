@@ -73,13 +73,14 @@ I've also added some reference materials that I've used through my learning at t
 
 ## Recursion Problems
 
-1. Sort an Array using Recursion.
-2. Sort a Stack.
-3. Reverse a Stack using Recursion.
-4. Tower of Hanoi Problem
-5. Subsets Generation
-6. Balanced Parentheses Problem
-7. Josephus Problem
+1. Check whether Array is Sorted ot Not.
+2. Sort an Array using Recursion.
+3. Sort a Stack.
+4. Reverse a Stack using Recursion.
+5. Tower of Hanoi Problem
+6. Subsets Generation
+7. Balanced Parentheses Problem
+8. Josephus Problem
 
 <hr />
 
