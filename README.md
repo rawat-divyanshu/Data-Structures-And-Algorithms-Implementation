@@ -75,7 +75,7 @@ I've also added some reference materials that I've used through my learning at t
 
 1. Check whether Array is Sorted ot Not.
 2. Sort an Array using Recursion.
-3. Sort a Stack.
+3. Sort a Stack using Recursion.
 4. Reverse a Stack using Recursion.
 5. Tower of Hanoi Problem
 6. Subsets Generation
