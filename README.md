@@ -82,6 +82,10 @@ I've also added some reference materials that I've used through my learning at t
 7. Balanced Parentheses Problem
 8. Josephus Problem
 
+## Combinatorics Problems
+
+1. [Birthday Paradox Problem]()
+
 <hr />
 
 # Reference Materials
