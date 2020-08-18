@@ -82,6 +82,10 @@ I've also added some reference materials that I've used through my learning at t
 7. Balanced Parentheses Problem
 8. Josephus Problem
 
+## Backtracking Problems
+
+1. [N - Queens Problem]()
+
 ## Combinatorics Problems
 
 1. [Birthday Paradox Problem](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/Combinatorics%20Problems/1.%20Birthday%20Paradox%20Problem.cpp)
