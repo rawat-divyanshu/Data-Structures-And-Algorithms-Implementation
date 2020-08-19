@@ -85,6 +85,7 @@ I've also added some reference materials that I've used through my learning at t
 ## Backtracking Problems
 
 1. [N - Queens Problem](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/Backtracking%20Problems/N%20-%20Queens%20Probelm.cpp)
+2. [Rat In a Maze Problem]()
 
 ## Combinatorics Problems
 
