@@ -47,8 +47,9 @@ I've also added some reference materials that I've used through my learning at t
 4. [Merge Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/4.%20Merge%20Sort.cpp)
 5. Heap Sort
 6. [Quick Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/6.%20Quick%20Sort.cpp)
-7. Radix Sort
-8. Shell Sort
+7. [Count Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/7.%20Count%20Sort.cpp)
+8. Radix Sort
+9. Shell Sort
 
 ## 5. Searching Algorithms
 
