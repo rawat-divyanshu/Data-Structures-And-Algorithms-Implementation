@@ -50,7 +50,7 @@ I've also added some reference materials that I've used through my learning at t
 7. [Count Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/7.%20Count%20Sort.cpp)
 8. Radix Sort
 9. Shell Sort
-10.[Pancake Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/10.%20Pancake%20Sort.cpp)
+10. [Pancake Sort](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/4.%20Sorting%20Algorithms/10.%20Pancake%20Sort.cpp)
 
 
 ## 5. Searching Algorithms
