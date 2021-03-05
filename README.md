@@ -76,7 +76,7 @@ I've also added some reference materials that I've used through my learning at t
 
 ## Recursion Problems
 
-1. [Check whether Array is Sorted ot Not.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/Recursion%20Problems/1.%20Check%20whether%20Array%20is%20Sorted%20ot%20Not.cpp)
+1. [Check whether Array is Sorted or Not.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/Recursion%20Problems/1.%20Check%20whether%20Array%20is%20Sorted%20ot%20Not.cpp)
 2. [Sort an Array using Recursion.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/Recursion%20Problems/2.%20Sort%20an%20Array%20using%20Recursion.cpp)
 3. [Sort a Stack using Recursion.](https://github.com/rawat-divyanshu/Data-Structures-And-Algorithms-Implementation/blob/master/Recursion%20Problems/3.%20Sort%20a%20Stack%20using%20Recursion.cpp)
 4. Reverse a Stack using Recursion.
